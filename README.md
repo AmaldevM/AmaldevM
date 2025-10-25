@@ -32,7 +32,7 @@
 
 <!-- 🧠 I Know These Stacks -->
 <p align="center">
-  <img src="assets/headers/iknow.png" alt="I Know These Stacks" width="100%"/>
+  <img src="assets/headers/languages.png" alt="I Know These Stacks" width="100%"/>
 </p>
 
 <!-- Languages -->
@@ -111,7 +111,7 @@
 
   <!-- Portfolio Website -->
   <a href="https://amaldevm.github.io/portfolio">
-    <img src="assets/social/web.png" height="25" alt="Portfolio Website"/>
+    <img src="assets/social/portfolio.png" height="25" alt="Portfolio Website"/>
   </a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;
