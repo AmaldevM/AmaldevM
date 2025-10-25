@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/Effect.gif" alt="Animated Banner" width="100%"/>
+  <img src="assets/Effect.gif" alt="Animated Banner" width="100%"/>
 </p>
 
 
@@ -7,11 +7,13 @@
 
 <!-- about me -->
 <p align="center">
-  <img src="assets/aboutMe.png" alt="Animated Banner" width="100%"/>
+  <img src="assets/aboutme.png" alt="Animated Banner" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer%20%7C%20Entrepreneur;Passionate%20about%20solving%20real-world%20problems;Building%20the%20future%20through%20code%20and%20innovation;3%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=750&height=45&color=00FF00&vCenter=true&pause=1000&size=25" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Enthusiast;Passionate%20about%20building%20web%20applications;Creating%20interactive%20and%20scalable%20projects;Learning%20and%20growing%20every%20day&font=Fira%20Code&center=true&width=750&height=45&color=00FF00&vCenter=true&pause=1000&size=25" />
+</p>
+
 
   # 📊 GitHub Stats:
 ![GITHUB Stats](https://github-stats-alpha.vercel.app/api?username=AmaldevM&cc=00000000&tc=00FF00&ic=00FF00&bc=00000000#gh-dark-mode-only)
@@ -122,35 +124,3 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AmaldevM&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AmaldevM&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AmaldevM&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmaldevM&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AmaldevM&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AmaldevM&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=AmaldevM&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Amaldevharidas) 
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amaldevharidas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amaldev-m) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/amaldevhari265) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amaldevhari265@gmail.com) 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
