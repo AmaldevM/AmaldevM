@@ -80,47 +80,10 @@
 
 <!-- 🌐 Connect with Me -->
 <div align="center">
-
-  <!-- Buy Me a Coffee (optional – can remove if not needed) -->
-  <a href="https://www.buymeacoffee.com/amaldevm">
-    <img src="assets/buttons/coffee.png" height="40" alt="Buy Me a Coffee"/>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/amaldevharidas/">
-    <img src="assets/social/instagram.png" height="25" alt="Instagram"/>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/amaldevm">
-    <img src="assets/social/linkedIn.png" height="25" alt="LinkedIn"/>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- GitHub -->
-  <a href="https://github.com/AmaldevM">
-    <img src="assets/social/github.png" height="25" alt="GitHub"/>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Portfolio Website -->
-  <a href="https://amaldevm.github.io/portfolio">
-    <img src="assets/social/portfolio.png" height="25" alt="Portfolio Website"/>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Email -->
-  <a href="mailto:amaldevhari265@gmail.com">
-    <img src="assets/social/mail.png" height="25" alt="Email"/>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
+  <a href="https://www.buymeacoffee.com/amaldevm"><img src="assets/buttons/coffee.png" height="40" alt="Buy Me a Coffee"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/amaldevharidas/"><img src="assets/social/instagram.png" height="25" alt="Instagram"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/amaldevm"><img src="assets/social/linkedIn.png" height="25" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/AmaldevM"><img src="assets/social/github.png" height="25" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://amaldevm.github.io/portfolio"><img src="assets/social/portfolio.png" height="25" alt="Portfolio Website"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:amaldevhari265@gmail.com"><img src="assets/social/mail.png" height="25" alt="Email"/></a>
 </div>
