@@ -64,10 +64,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmaldevM&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=7&hide_border=true&bg_color=0D1117" width="100%" alt="Trophies"/>
+  <img src="https://gh-trophy.cdnsoft.net/?username=AmaldevM&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=7&hide_border=true&bg_color=0D1117" width="100%" alt="Trophies"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmaldevM&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=4&rank=SECRET&hide_border=true&bg_color=0D1117" width="55%" alt="Secret Trophies"/>
+  <img src="https://gh-trophy.cdnsoft.net/?username=AmaldevM&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=4&rank=SECRET&hide_border=true&bg_color=0D1117" width="55%" alt="Secret Trophies"/>
 </p>
 
 <!-- ══════ NEON HEADER: GAMIFIED CODER CARD ══════════════ -->
