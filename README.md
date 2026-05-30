@@ -3,7 +3,7 @@
 <!-- ████████████████████████████████████████████████████ -->
 
 <p align="center">
-  <img src="assets/Intro2.gif" alt="Animated Banner" width="100%"/>
+  <img src="assets/Intro2.gif" width="100%"/>
 </p>
 
 <!-- ══════════════════ GLOWING DIVIDER ══════════════════ -->
@@ -12,18 +12,17 @@
 </p>
 
 <!-- ══════════════════ SNAKE ANIMATION ══════════════════ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/AmaldevM/AmaldevM/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/AmaldevM/AmaldevM/output/github-snake.svg"/>
-  <img alt="GitHub Snake" width="100%"
-    src="https://raw.githubusercontent.com/AmaldevM/AmaldevM/output/github-snake-dark.svg"/>
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmaldevM/AmaldevM/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmaldevM/AmaldevM/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/AmaldevM/AmaldevM/output/github-snake-dark.svg" alt="GitHub Snake" width="100%" />
+  </picture>
+</p>
 
 <!-- ══════════════════ ABOUT ME ══════════════════════════ -->
 <p align="center">
-  <img src="assets/aboutme.png" alt="About Me" width="100%"/>
+  <img src="assets/aboutme.png" width="100%"/>
 </p>
 
 <p align="center">
@@ -35,22 +34,18 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001100,50:003300,100:001100&height=40&text=⚡%20GITHUB%20STATS%20⚡&fontSize=18&fontColor=00FF41&fontAlign=50&fontAlignY=65" width="100%"/>
 </p>
 
-<!-- ══════ STATS — USING RELIABLE HOSTED INSTANCES ══════ -->
-<!-- NOTE: If cards show "Expired", fork anuraghazra/github-readme-stats
-     to Vercel with your own GitHub token for 100% uptime -->
-
 <p align="center">
   <a href="https://github.com/AmaldevM">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=AmaldevM&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&count_private=true&rank_icon=github&include_all_commits=true&cache_seconds=1800"/>
   </a>
   <a href="https://github.com/AmaldevM">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaldevM&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&langs_count=8&cache_seconds=1800"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaldevM&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&langs_count=8&cache_seconds=1800"/>
   </a>
 </p>
 
 <!-- ══════════════ STREAK STATS ══════════════════════════ -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AmaldevM&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&stroke=00FF4122" alt="GitHub Streak" width="55%"/>
+  <img src="https://streak-stats.demolab.com/?user=AmaldevM&hide_border=true&bg_color=0D1117&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&stroke=00FF4122" alt="GitHub Streak" width="55%"/>
 </p>
 
 <!-- ══════════════ ACTIVITY GRAPH ════════════════════════ -->
@@ -68,26 +63,25 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001100,50:003300,100:001100&height=40&text=🏆%20TROPHIES%20🏆&fontSize=18&fontColor=00FF41&fontAlign=50&fontAlignY=65" width="100%"/>
 </p>
 
-<!-- ══════ TROPHIES — ryo-ma instance (reliable) ══════════ -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmaldevM&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AmaldevM&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=7&hide_border=true&bg_color=0D1117" width="100%" alt="Trophies"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmaldevM&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=4&rank=SECRET" width="55%" alt="Secret Trophies"/>
-</p>
-
-<!-- ══════ NEON HEADER: PROFILE SUMMARY ══════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001100,50:003300,100:001100&height=40&text=🎮%20CODER%20STATS%20CARD%20🎮&fontSize=18&fontColor=00FF41&fontAlign=50&fontAlignY=65" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AmaldevM&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=4&rank=SECRET&hide_border=true&bg_color=0D1117" width="55%" alt="Secret Trophies"/>
 </p>
 
+<!-- ══════ NEON HEADER: GAMIFIED CODER CARD ══════════════ -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmaldevM&theme=github_dark" width="97%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001100,50:003300,100:001100&height=40&text=🎮%20GAMIFIED%20CODER%20CARD%20🎮&fontSize=18&fontColor=00FF41&fontAlign=50&fontAlignY=65" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmaldevM&theme=github_dark&hide_border=true&bg_color=0D1117" width="97%"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmaldevM&theme=github_dark" width="31%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmaldevM&theme=github_dark" width="31%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmaldevM&theme=github_dark&utcOffset=5.5" width="31%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmaldevM&theme=github_dark&hide_border=true&bg_color=0D1117" width="31%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmaldevM&theme=github_dark&hide_border=true&bg_color=0D1117" width="31%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmaldevM&theme=github_dark&utcOffset=5.5&hide_border=true&bg_color=0D1117" width="31%"/>
 </p>
 
 <!-- ══════ NEON HEADER: SKILL POWER LEVELS ═══════════════ -->
@@ -96,14 +90,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-▓▓▓▓▓▓▓▓▓░%2095%25-00FF41?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/React-▓▓▓▓▓▓▓▓▓░%2090%25-00FF41?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Node.js-▓▓▓▓▓▓▓▓░░%2085%25-00FF41?style=for-the-badge&logo=nodedotjs&logoColor=black&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/JavaScript%20▓▓▓▓▓▓▓▓▓░-95%25-00FF41?style=for-the-badge&logo=javascript&logoColor=00FF41&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/React%20▓▓▓▓▓▓▓▓▓░-90%25-00FF41?style=for-the-badge&logo=react&logoColor=00FF41&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Node.js%20▓▓▓▓▓▓▓▓░░-85%25-00FF41?style=for-the-badge&logo=nodedotjs&logoColor=00FF41&labelColor=0D1117"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-▓▓▓▓▓▓▓▓░░%2080%25-00FF41?style=for-the-badge&logo=mongodb&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Java-▓▓▓▓▓▓▓░░░%2075%25-00FF41?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Python-▓▓▓▓▓▓▓░░░%2070%25-00FF41?style=for-the-badge&logo=python&logoColor=black&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/MongoDB%20▓▓▓▓▓▓▓▓░░-80%25-00FF41?style=for-the-badge&logo=mongodb&logoColor=00FF41&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Java%20▓▓▓▓▓▓▓░░░-75%25-00FF41?style=for-the-badge&logo=openjdk&logoColor=00FF41&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Python%20▓▓▓▓▓▓▓░░░-70%25-00FF41?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=0D1117"/>
 </p>
 
 <!-- ══════ LANGUAGES SECTION ══════════════════════════════ -->
@@ -163,7 +157,7 @@
 
 <!-- ══════ RANDOM DEV QUOTE ══════════════════════════════ -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=true&bg_color=0D1117" width="80%" alt="Dev Quote"/>
 </p>
 
 <!-- ══════ PROFILE VIEWS + CONNECT ═══════════════════════ -->
