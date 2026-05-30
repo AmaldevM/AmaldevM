@@ -43,11 +43,6 @@
   </a>
 </p>
 
-<!-- ══════════════ STREAK STATS ══════════════════════════ -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AmaldevM&hide_border=true&bg_color=0D1117&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&stroke=00FF4122" alt="GitHub Streak" width="55%"/>
-</p>
-
 <!-- ══════════════ ACTIVITY GRAPH ════════════════════════ -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmaldevM&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=003B00&hide_border=true&custom_title=⚡%20Contribution%20Activity%20Graph&radius=6" width="97%" alt="Activity Graph"/>
