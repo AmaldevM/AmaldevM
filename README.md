@@ -51,6 +51,17 @@
   <img src="https://gh-trophy.cdnsoft.net/?username=AmaldevM&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=4&rank=SECRET&hide_border=true&bg_color=0D1117" width="55%" alt="Secret Trophies"/>
 </p>
 
+<!-- ══════ NEON HEADER: GITHUB ACHIEVEMENTS ══════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001100,50:003300,100:001100&height=40&text=🏅%20GITHUB%20ACHIEVEMENTS%20🏅&fontSize=18&fontColor=00FF41&fontAlign=50&fontAlignY=65" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="100" height="100" alt="YOLO Badge"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="100" height="100" alt="Pull Shark Badge"/>
+</p>
+
 <!-- ══════ NEON HEADER: GAMIFIED CODER CARD ══════════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001100,50:003300,100:001100&height=40&text=🎮%20GAMIFIED%20CODER%20CARD%20🎮&fontSize=18&fontColor=00FF41&fontAlign=50&fontAlignY=65" width="100%"/>
