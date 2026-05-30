@@ -8,7 +8,7 @@
 
 <!-- ══════════════════ GLOWING DIVIDER ══════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003300&height=2&width=100%25"/>
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%"/>
 </p>
 
 <!-- ══════════════════ SNAKE ANIMATION ══════════════════ -->
