@@ -76,22 +76,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmaldevM&theme=github_dark&utcOffset=5.5&hide_border=true&bg_color=0D1117" width="31%"/>
 </p>
 
-<!-- ══════ NEON HEADER: SKILL POWER LEVELS ═══════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001100,50:003300,100:001100&height=40&text=⚡%20SKILL%20POWER%20LEVELS%20⚡&fontSize=18&fontColor=00FF41&fontAlign=50&fontAlignY=65" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript%20▓▓▓▓▓▓▓▓▓░-95%25-00FF41?style=for-the-badge&logo=javascript&logoColor=00FF41&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/React%20▓▓▓▓▓▓▓▓▓░-90%25-00FF41?style=for-the-badge&logo=react&logoColor=00FF41&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Node.js%20▓▓▓▓▓▓▓▓░░-85%25-00FF41?style=for-the-badge&logo=nodedotjs&logoColor=00FF41&labelColor=0D1117"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB%20▓▓▓▓▓▓▓▓░░-80%25-00FF41?style=for-the-badge&logo=mongodb&logoColor=00FF41&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Java%20▓▓▓▓▓▓▓░░░-75%25-00FF41?style=for-the-badge&logo=openjdk&logoColor=00FF41&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Python%20▓▓▓▓▓▓▓░░░-70%25-00FF41?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=0D1117"/>
-</p>
-
 <!-- ══════ LANGUAGES SECTION ══════════════════════════════ -->
 <p align="center">
   <img src="assets/headers/languages.png" alt="Programming Languages" width="100%"/>
