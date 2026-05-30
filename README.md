@@ -29,20 +29,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Enthusiast;Passionate%20about%20building%20web%20applications;Creating%20interactive%20and%20scalable%20projects;Learning%20and%20growing%20every%20day&font=Fira%20Code&center=true&width=750&height=45&color=00FF41&vCenter=true&pause=1000&size=22"/>
 </p>
 
-<!-- ══════════════ NEON HEADER: STATS ═════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001100,50:003300,100:001100&height=40&text=⚡%20GITHUB%20STATS%20⚡&fontSize=18&fontColor=00FF41&fontAlign=50&fontAlignY=65" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AmaldevM">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=AmaldevM&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&count_private=true&rank_icon=github&include_all_commits=true&cache_seconds=1800"/>
-  </a>
-  <a href="https://github.com/AmaldevM">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaldevM&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&langs_count=8&cache_seconds=1800"/>
-  </a>
-</p>
-
 <!-- ══════════════ ACTIVITY GRAPH ════════════════════════ -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmaldevM&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=003B00&hide_border=true&custom_title=⚡%20Contribution%20Activity%20Graph&radius=6" width="97%" alt="Activity Graph"/>
